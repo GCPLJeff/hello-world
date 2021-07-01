@@ -1,4 +1,4 @@
 # hello-world
-Just a test repository
+Just an example repository!
 
 Here is some information about me: I like to code. 
